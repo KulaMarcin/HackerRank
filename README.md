@@ -1,2 +1,2 @@
 # HackerRankSolutions
- Examples of task solutions from the HackerRank platform
+Examples of task solutions from the HackerRank platform (Java)
